@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mhhelmy
-- 👀 I’m interested in Embedded systesms, Electrical Communications and Electronics
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on Everything
+- 👋 Hi, I’m Mohamed Khalil. I'm currently living in Germany.
+- 👀 I’m interested in Embedded systesms, Electrical Communications and Electronics.
+- 🌱 I’m currently learning Everything.
+- 💞️ I’m looking to collaborate on Embedded software projects.
 - 📫 How to reach me here swishy_magnets.0k@icloud.com
 
 <!---
